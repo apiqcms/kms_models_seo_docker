@@ -52,5 +52,5 @@ gem 'tzinfo-data' #, platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "activerecord-nulldb-adapter"
 gem "kms", '1.0.1'
-gem 'kms_models', '1.0.0'
+gem 'kms_models', '1.0.1'
 gem "kms_seo", '1.0.2'
